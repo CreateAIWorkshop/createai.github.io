@@ -1,4 +1,4 @@
-# createai.github.io
+# CreateAI Workshop
 
-View Workshop Report Here:
-- CreateAI Workshop Report (https://github.com/createaiworkshop/createaiworkshop.github.io/blob/main/report/createAI_Workshop-Report.pdf)
+### Workshop Report:
+- [CreateAI Workshop Report ](https://github.com/createaiworkshop/createaiworkshop.github.io/blob/main/report/createAI_Workshop-Report.pdf)
